@@ -1,0 +1,14 @@
+body {
+    width: 200px;
+}
+.big {
+    color: blue;
+}
+
+div#b325, div.b326 {
+    border: 1px solid green;
+}
+
+p.big { 
+    background-color: yellow;
+}
